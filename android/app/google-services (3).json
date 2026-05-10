@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203333126557",
+    "project_id": "heartscan-ai",
+    "storage_bucket": "heartscan-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203333126557:android:bb83027d26cf42cbbf8774",
+        "android_client_info": {
+          "package_name": "com.heartscan.heartscan_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDte4oaWaNFdlwH1uaUAp8bhoHSpsBa2h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
